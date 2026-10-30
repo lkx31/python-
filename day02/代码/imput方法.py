@@ -1,0 +1,6 @@
+name=input("请输入你的名字")
+age=input("请输入你的年龄")
+height=input("请输入你的身高")
+print(type(name),type(age),type(height))
+print(name,age,height)
+print(f"你的名字是{name},你的年龄是{age},你的身高是{height}")
