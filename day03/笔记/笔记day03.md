@@ -1,3 +1,19 @@
+- □ 
+
+  会用 `conda env list` 查看环境
+
+- □ 
+
+  会创建、激活、删除 conda 环境
+
+- □ 
+
+  会在 PyCharm 中切换解释器
+
+- □ 
+
+  知道 `conda -V` 与 `python -V` 的区别
+
 .Anaconda的使用
  打开anaconda的终端环境，搜索anaconda的终端
 
